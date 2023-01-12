@@ -1,6 +1,6 @@
 # Guia do Analista/Cientista de Dados das Galáxias
 
-![data_equations](https://miro.medium.com/max/1120/0*nsgXxd0kwN3qT2ks.gif)
+<img src="https://miro.medium.com/max/1120/0*nsgXxd0kwN3qT2ks.gif" width="500">
 
 --
 
@@ -50,16 +50,15 @@ Bem vinda(o), pequena(o) padawan :)
 --------------------------------------------------
 <h2 id="recomendacoes">Recomendações</h2>
 
-![data_equations](https://miro.medium.com/max/1120/0*nsgXxd0kwN3qT2ks.gif)
-
+<img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" width="500">
 
 <h3 id="iniciante">Iniciante</h3>
 
-  - [Python](https://www.python.org/) (lib [Pandas](https://pandas.pydata.org/)) ou [R](https://cloud.r-project.org/) | [R Studio](https://www.rstudio.com/products/rstudio/download/#download). [Qual aprender? Dicas Udacity](https://blog.udacity.com/2015/01/python-vs-r-learn-first.html)
-  - [SQL](https://pt.khanacademy.org/computing/computer-programming/sql#sql-basics)
-  - [Jupyter Notebook](http://jupyter.org/)
-  - [Estatística Descritiva](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827)
+  - [Python](https://www.python.org/) | [Anaconda](https://www.anaconda.com/products/distribution) ou [R](https://cloud.r-project.org/) | [R Studio](https://www.rstudio.com/products/rstudio/download/#download). [Qual aprender? Dicas Udacity](https://blog.udacity.com/2015/01/python-vs-r-learn-first.html)
   - [Ferramentas básicas de desenvolvimento](https://medium.com/pizzadedados/ferramentas-desenvolvimento-ciencia-dados-c54d112871d8) | [**pt-br**]
+  - [Jupyter Notebook](http://jupyter.org/). [Seus primeiros passos](https://medium.com/@pedrofullstack/introdu%C3%A7%C3%A3o-ao-jupyter-notebook-para-python-b2cf79cea31d)
+  - [SQL](https://pt.khanacademy.org/computing/computer-programming/sql#sql-basics)
+  - [Estatística Descritiva](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827)
 
 <h3 id="intermediario">Intermediário</h3>
 

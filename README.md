@@ -16,7 +16,7 @@ Bem vinda(o), pequena(o) padawan :)
   * [Recomendações](#recomendacoes)
       * [Iniciante](#iniciante)
       * [Intermediário](#intermediario)
-      * [Grandes projetos (big data)](#grandesprojetos)
+      * [Importantes Frameworks](#importantes_frameworks)
       * [Em Python](#empython)
       * [Em R](#emr)
       * [Em Julia](#emjulia)
@@ -64,7 +64,7 @@ Bem vinda(o), pequena(o) padawan :)
 
 
 
-<h3 id="Importantes Frameworks">Grandes projetos (big data)</h3>
+<h3 id="importantes_frameworks">Importantes Frameworks</h3>
 
 
 --------------------------------------------------

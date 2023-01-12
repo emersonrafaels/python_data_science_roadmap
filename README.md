@@ -1,6 +1,6 @@
 # Guia do Analista/Cientista de Dados das Galáxias
 
-![datas_everywhere][https://unbounce.com/photos/data-everywhere.gif]
+![datas_everywhere](https://unbounce.com/photos/data-everywhere.gif)
 
 --
 
@@ -50,7 +50,7 @@ Bem vinda(o), pequena(o) padawan :)
 --------------------------------------------------
 <h2 id="recomendacoes">Recomendações</h2>
 
-![]([https://media.giphy.com/media/Lq3ueCSWjnQPu/giphy.gif](https://miro.medium.com/max/1120/0*nsgXxd0kwN3qT2ks.gif))
+![data_equations](https://miro.medium.com/max/1120/0*nsgXxd0kwN3qT2ks.gif)
 
 
 <h3 id="iniciante">Iniciante</h3>

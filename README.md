@@ -1,6 +1,6 @@
 # Guia do Analista/Cientista de Dados das Galáxias
 
-![datas_everywhere](https://unbounce.com/photos/data-everywhere.gif)
+![datas_everywhere](https://unbounce.com/photos/data-everywhere.gif](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif)
 
 --
 

@@ -22,7 +22,7 @@ Bem vinda(o), pequena(o) padawan :)
       * [Em Julia](#emjulia)
   * [Vídeos](#videos)
   * [Datasets](#datasets)
-  * [Dicionário de termos em português](https://github.com/emersonrafaels/python_data_science_roadmap/blob/master/dicionario.md)
+  * [Dicionário de termos](https://github.com/emersonrafaels/python_data_science_roadmap/blob/master/dicionario.md)
   * [Metodologias Ágeis](#metodologiasageis)
   * [Dados em Imagens](#imagens)
   * Tópicos específicos:

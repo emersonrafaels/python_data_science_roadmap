@@ -10,7 +10,7 @@ O IPython é uma dependência do Jupyter (um dos kernels), tal como pode ser vis
   <img src="https://docs.jupyter.org/en/latest/_images/repos_map.png" width=550>
 </p>
 
-## Iniciando com Jupyter Notebook - Livro: [Python para análise se dados](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/material/Python%20para%20an%C3%A1lise%20de%20dados.pdf) - Capítulo 2
+## Iniciando com Jupyter Notebook - Livro: [Python para análise de dados](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/material/Python%20para%20an%C3%A1lise%20de%20dados.pdf) - Capítulo 2
 
 Nesse capítulo você irá aprender:
 

@@ -38,10 +38,10 @@ Na imagem acima:
 - [StatQuest](https://www.youtube.com/watch?v=HVXime0nQeI)
   - Apresenta KNN usando um case de tumores em diferentes tipos celulares.
   - Demonstra a importância do parâmetro k, para a resposta final do algoritmo.
- - [Algoritmo KNN e Avaliaçõ de Modelos Preditivos - UNIVESP TV](https://www.youtube.com/watch?v=4Dpf76AB9Js)
-  - Definição do algoritmo
-  - Funcionamento do algoritmo
-  - Exemplo usando o Iris Dataset
-    - Treinando
-    - Testando
-    - Avaliando com o score do scikit-learn (acurácia).
+ - [Algoritmo KNN e Avaliações de Modelos Preditivos - UNIVESP TV](https://www.youtube.com/watch?v=4Dpf76AB9Js)
+    - Definição do algoritmo
+    - Funcionamento do algoritmo
+    - Exemplo usando o Iris Dataset
+      - Treinando
+      - Testando
+      - Avaliando com o score do scikit-learn (acurácia).

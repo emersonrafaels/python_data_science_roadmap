@@ -1,15 +1,29 @@
 # K Nearest Neighbors (KNN)
 
 O **KNN** é um **algoritmo de aprendizado supervisionado**, que pode ser utilizado para cases de **classificação** ou 
-**regressão**, no qual temos um **parâmetro** chamado 'K', número de instâncias que o algoritmo usa 
+**regressão**, no qual temos um **parâmetro** chamado 'K', número de instâncias (vizinhos) que o algoritmo usa 
 para fazer sua previsão, normalmente esse valor é um número ímpar (em classificação, k ímpar 
 garante que não haverá empate entre classes).
+
+O KNN é um exemplo de **algoritmo não parâmetrico**, ou seja, que não assume considerações antecipadamente sobre os dados, tal como a LinearRegression faz de que os dados podem ser modelados por uma função linear (considerações fortes podem resultar em resultados ruins, porque a relação entre um X e y pode não ser linear).
 
 <p align="center">
   <img src="https://vitalflux.com/wp-content/uploads/2022/08/k-nearest-neighbors-algorithm.png" width=550>
 </p>
 
 No exemplo acima, a nova instância (representada pelo ?) e para k = 3, a nova instância será classificada pela classe representada pelo símbolo $\triangle$ (triângulo). Se k = 1, então o objeto é simplesmente atribuído à classe daquele único vizinho mais próximo.
+
+## Para o que pode ser usado
+
+1. Em problemas de classificação do k vizinho mais próximo, a saída é uma associação de classe. Um objeto é classificado por maioria de votos de seus vizinhos, sendo o objeto atribuído à classe mais comum entre seus k vizinhos mais próximos (k é um inteiro positivo, geralmente pequeno).\newline
+    
+    Se k = 1, então o objeto é simplesmente atribuído à classe daquele único vizinho mais próximo.\newline
+    
+    Para k = 3, a nova instância será classificada pela classe representada pelo símbolo $\triangle$ (triângulo).
+
+2. Na regressão dos K vizinhos mais próximos, a saída é o valor da propriedade do objeto. Este valor é a média dos valores de seus k vizinhos mais próximos. A equação abaixo representa o problema:
+    
+\end{itemize}
 
 ## Etapas do algoritmo
 
@@ -31,7 +45,14 @@ Na imagem acima:
 
 <span style="color:red">*Baixos valores de k (como k=1 ou k-2), podem ser ruidos e muito sujeitos aos efeitos de outliers.</span>.
 
+Uma boa sugestão para escolher k é usar:
+
+$k = log(N)$
+
+Sendo N o número de instâncias do conjunto de dados.
+
 ## Materiais
+- Introduction to Statistical Learning - Cap 
 
 ### Videos
 

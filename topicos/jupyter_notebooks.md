@@ -14,7 +14,7 @@ O IPython é uma dependência do Jupyter (um dos kernels), tal como pode ser vis
 
 Nesse capítulo você irá aprender:
 
-- Intepretador Python
+- Interpretador Python
 - Executando o Jupyter na linha de comando (Shell)
 - Executando o notebook Jupyter
   	-  Preenchimento automático com tabulação

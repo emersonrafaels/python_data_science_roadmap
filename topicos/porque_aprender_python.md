@@ -2,11 +2,11 @@ Utilizando o livro - [Aprendendo Python](https://github.com/emersonrafaels/pytho
 
 Nele os seguintes tópicos serão discutidos:
 
-- Legibilidade do código Python
-- Mecanismos para reutilização de código, baseados em programação orientada a objetos (POO)
+- Legibilidade do código Python.
+- Mecanismos para reutilização de código, baseados em programação orientada a objetos (POO).
 - O desenvolvedor mais produtivo com uma linguagem com menos digitação, menos depuração e menos manutenção.
 - Portabilidade de código: Windows, Linux e macOS, sem grandes modificações.
-- Bibliotecas nativas + Funções pré-compiladas (built-ins)
+- Bibliotecas nativas + Funções pré-compiladas (built-ins), sem necessitar de instalações adicionais.
   - [Todas bibliotecas nativas e suas documentações](https://docs.python.org/3/library/)
 
     * O site separa as bibiliotecas por tópicos de uso, o que facilita a nossa busca, ex:
@@ -26,3 +26,5 @@ Nele os seguintes tópicos serão discutidos:
 
 
   - [Artigo da Amanda Iglesias sobre importantes bibliotecas nativas para uso pelos cientistas de dados](https://towardsdatascience.com/the-python-standard-library-modules-you-should-know-as-a-data-scientist-47e1117ca6c8)
+
+* No mesmo capítulo, há um tópico sobre o desafio de utilizar Python, no quesito velocidade, quando comparado à linguagens pré compiladas como C e C++ (e no mesmo tópico, há uma discussão sobre velocidade de desenvolvimento x velocidade de execução de código).

@@ -25,4 +25,4 @@ Nele os seguintes tópicos serão discutidos:
       - operator — Standard operators as functions
 
 
-  - [Artigo da Amanda Iglesias sobre importantes bibliotecas nativas para uso pelos cientistas de dados](The Python Standard Library — modules you should know as a data scientist)
+  - [Artigo da Amanda Iglesias sobre importantes bibliotecas nativas para uso pelos cientistas de dados](https://towardsdatascience.com/the-python-standard-library-modules-you-should-know-as-a-data-scientist-47e1117ca6c8)

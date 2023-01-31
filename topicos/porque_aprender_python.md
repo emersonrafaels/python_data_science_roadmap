@@ -9,20 +9,20 @@ Nele os seguintes tópicos serão discutidos:
 - Bibliotecas nativas + Funções pré-compiladas (built-ins)
   - [Todas bibliotecas nativas e suas documentações](https://docs.python.org/3/library/)
 
-  * O site separa as bibiliotecas por tópicos de uso, o que facilita a nossa busca, ex:
+    * O site separa as bibiliotecas por tópicos de uso, o que facilita a nossa busca, ex:
 
-    - Numeric and Mathematical Modules
-      - numbers — Numeric abstract base classes
-      - math — Mathematical functions
-      - cmath — Mathematical functions for complex numbers
-      - decimal — Decimal fixed point and floating point arithmetic
-      - fractions — Rational numbers
-      - random — Generate pseudo-random numbers
-      - statistics — Mathematical statistics functions
-    - Functional Programming Modules
-      - itertools — Functions creating iterators for efficient looping
-      - functools — Higher-order functions and operations on callable objects
-      - operator — Standard operators as functions
+      - Numeric and Mathematical Modules
+        - numbers — Numeric abstract base classes
+        - math — Mathematical functions
+        - cmath — Mathematical functions for complex numbers
+        - decimal — Decimal fixed point and floating point arithmetic
+        - fractions — Rational numbers
+        - random — Generate pseudo-random numbers
+        - statistics — Mathematical statistics functions
+      - Functional Programming Modules
+        - itertools — Functions creating iterators for efficient looping
+        - functools — Higher-order functions and operations on callable objects
+        - operator — Standard operators as functions
 
 
   - [Artigo da Amanda Iglesias sobre importantes bibliotecas nativas para uso pelos cientistas de dados](https://towardsdatascience.com/the-python-standard-library-modules-you-should-know-as-a-data-scientist-47e1117ca6c8)

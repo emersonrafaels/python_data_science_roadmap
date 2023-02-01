@@ -43,3 +43,19 @@ Utilizando o livro - [Aprendendo Python](https://github.com/emersonrafaels/pytho
     - Instagram: "Estamos executando a maior implementação mundial da estrutura da web Django"
 
         *“Inicialmente, escolhemos usar o Python por causa de sua reputação de simplicidade e praticidade, o que se alinha bem com nossa filosofia de 'faça o simples primeiro."*
+ 
+    - Spotify: "O Spotify gosta da rapidez do pipeline de desenvolvimento ao escrever e codificar em Python."
+
+        *"Para fornecer sugestões e recomendações aos usuários, o Spotify conta com um grande volume de análises. Para interpretá-los, o Spotify utiliza o Luigi , um módulo Python que sincroniza com o Hadoop. Este módulo de código aberto lida com o funcionamento conjunto das bibliotecas e consolida logs de erros rapidamente para permitir a solução de problemas e a reimplantação."*
+        
+    - Quora: "Uso do Python foi a existência de vários bons frameworks na época, incluindo Django e Pylons, ter Python e JS funcionando tão bem juntos foi uma grande vantagem."
+
+        *"Essa enorme plataforma de perguntas e respostas de origem coletiva pensou muito sobre qual linguagem eles queriam usar para implementar sua ideia. Charlie Cheever , um dos fundadores do Quora, teve sua escolha reduzida a Python, C#, Java e Scala. O maior problema deles em prosseguir com o Python era a falta de verificação de tipos e sua relativa lentidão. Os fundadores do Quora seguiram o exemplo do Google, optando por usar o Python onde podiam devido à sua facilidade de escrita e legibilidade, e implementaram o C++ para as seções críticas de desempenho. Eles contornaram a falta de verificação de tipo do Python escrevendo testes de unidade que realizam praticamente a mesma coisa."*
+        
+    - Netflix: "Como o Python é tão fácil de desenvolver, ele se tornou um elemento central em muitos dos outros serviços da Netflix."
+
+        *"A Netflix usa Python de maneira muito semelhante ao Spotify, contando com a linguagem para alimentar sua análise de dados no lado do servidor . Ele não pára por aí, no entanto. A Netflix permite que seus engenheiros de software escolham em qual linguagem codificar e notaram um grande aumento no número de aplicativos Python."*
+        
+    - Reddit: "Existe uma biblioteca para tudo."
+
+        *“Existe uma biblioteca para tudo. Temos aprendido muito dessas tecnologias e muitas dessas arquiteturas à medida que avançamos. E, então, quando eu não entendo pools de conexão, posso simplesmente encontrar uma biblioteca até que eu mesmo entenda melhor e escreva a nossa. Não entendo frameworks da web, então usaremos o de outra pessoa até fazermos o nosso próprio... Python tem uma muleta incrível como essa.”*

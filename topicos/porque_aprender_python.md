@@ -31,3 +31,15 @@ Utilizando o livro - [Aprendendo Python](https://github.com/emersonrafaels/pytho
 
 
 2. [E quais empresas andam utilizando Python?](https://realpython.com/world-class-companies-using-python/)
+
+    - Google: "Python onde podemos, C++ onde devemos”.
+
+        *“Python tem sido uma parte importante do Google desde o início e continua sendo à medida que o sistema cresce e evolui. Hoje, dezenas de engenheiros do Google usam Python e estamos procurando mais pessoas com habilidades nessa linguagem.”*
+        
+    - Facebook:
+        
+        *"O Facebook publicou vários projetos Python de código aberto escritos para Py3, incluindo uma API de anúncios do Facebook e uma estrutura Python Async IRCbot . O Facebook está atualmente em processo de atualização de sua infraestrutura e manipuladores para 3.4 de 2, e o AsyncIO está ajudando seus engenheiros no processo."*
+        
+    - Instagram: "Estamos executando a maior implementação mundial da estrutura da web Django"
+
+        *“Inicialmente, escolhemos usar o Python por causa de sua reputação de simplicidade e praticidade, o que se alinha bem com nossa filosofia de 'faça o simples primeiro."*

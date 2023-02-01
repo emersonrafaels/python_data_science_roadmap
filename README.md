@@ -61,6 +61,7 @@ Bem vinda(o), pequena(o) padawan :)
 	- [Aprendendo mais](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/jupyter_notebooks.md)
 - [Começando o aprendizado em python - Learning Python in 1 hour](https://www.youtube.com/watch?v=kqtD5dpn9C8) - *audio: en - legendas: pt*
 	- [Tópicos apresentados](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/review_learn_python_1_hour.md)
+- [Porque estou aprendendo Python mesmo?](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/porque_aprender_python.md)
 - [SQL]()
 - [Estatística Descritiva]()
 

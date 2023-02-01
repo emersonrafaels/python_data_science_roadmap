@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="https://www.cleveroad.com/images/article-previews/python-popularity-on-github-statistics.png" width=650>
+</p>
+
+Referência: https://octoverse.github.com/2022/top-programming-languages
+
 Utilizando o livro - [Aprendendo Python](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/material/Aprendendo%20Python%20(MARK%20LUTZ%2C%20DAVID%20ASCHER).pdf), ler o capítulo 1.
 
 1. Nele os seguintes tópicos serão discutidos:

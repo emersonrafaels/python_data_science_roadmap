@@ -32,6 +32,10 @@ Utilizando o livro - [Aprendendo Python](https://github.com/emersonrafaels/pytho
 
 2. [E quais empresas andam utilizando Python?](https://realpython.com/world-class-companies-using-python/)
 
+    <p align="center">
+        <img src="https://www.monocubed.com/wp-content/uploads/2022/04/7-world-class-companies-that-use-python.jpg" width=550>
+    </p>
+
     - Google: "Python onde podemos, C++ onde devemos”.
 
         *“Python tem sido uma parte importante do Google desde o início e continua sendo à medida que o sistema cresce e evolui. Hoje, dezenas de engenheiros do Google usam Python e estamos procurando mais pessoas com habilidades nessa linguagem.”*
@@ -59,3 +63,6 @@ Utilizando o livro - [Aprendendo Python](https://github.com/emersonrafaels/pytho
     - Reddit: "Existe uma biblioteca para tudo."
 
         *“Existe uma biblioteca para tudo. Temos aprendido muito dessas tecnologias e muitas dessas arquiteturas à medida que avançamos. E, então, quando eu não entendo pools de conexão, posso simplesmente encontrar uma biblioteca até que eu mesmo entenda melhor e escreva a nossa. Não entendo frameworks da web, então usaremos o de outra pessoa até fazermos o nosso próprio... Python tem uma muleta incrível como essa.”*
+        
+        
+    *[Mais empresas - Artigo da Monocubed](https://www.monocubed.com/blog/companies-that-use-python/) 

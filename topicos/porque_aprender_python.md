@@ -6,7 +6,7 @@ Referência: https://octoverse.github.com/2022/top-programming-languages
 
 Utilizando o livro - [Aprendendo Python](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/material/Aprendendo%20Python%20(MARK%20LUTZ%2C%20DAVID%20ASCHER).pdf), ler o capítulo 1.
 
-1. Nele os seguintes tópicos serão discutidos:
+1. Nele os seguintes tópicos são discutidos:
 
     - É uma linguagem open-source e gratuita (com uma comunidade extremamente ativa e suporte da [Python Software Foundation](https://www.python.org/psf-landing/)).
     - Legibilidade do código Python.

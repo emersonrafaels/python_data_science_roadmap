@@ -17,9 +17,6 @@ Bem vinda(o), pequena(o) padawan :)
       * [Iniciante](#iniciante)
       * [Intermediário](#intermediario)
       * [Importantes Frameworks](#importantes_frameworks)
-      * [Em Python](#empython)
-      * [Em R](#emr)
-      * [Em Julia](#emjulia)
   * [Vídeos](#videos)
   * [Datasets](#datasets)
   * [Dicionário de termos](https://github.com/emersonrafaels/python_data_science_roadmap/blob/master/dicionario.md)
@@ -54,17 +51,13 @@ Bem vinda(o), pequena(o) padawan :)
 
 <h3 id="iniciante">Iniciante</h3>
 
-- [Python](https://www.python.org/) | [Anaconda](https://www.anaconda.com/products/distribution) ou [R](https://cloud.r-project.org/) | [R Studio](https://www.rstudio.com/products/rstudio/download/#download). [Qual aprender? Dicas Udacity](https://blog.udacity.com/2015/01/python-vs-r-learn-first.html)
-- [Ferramentas básicas de desenvolvimento](https://medium.com/pizzadedados/ferramentas-desenvolvimento-ciencia-dados-c54d112871d8) | [**pt-br**]
-- [Jupyter Notebook](http://jupyter.org/) 
-	- [Seus primeiros passos](https://medium.com/@pedrofullstack/introdu%C3%A7%C3%A3o-ao-jupyter-notebook-para-python-b2cf79cea31d) 
-	- [Aprendendo mais](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/jupyter_notebooks.md)
-- [Organizando o mapa de conceitos que devemos ter](https://www.mindmeister.com/pt/map/2583562956?t=7js9NerA57)
-- [Começando o aprendizado em python - Learning Python in 1 hour](https://www.youtube.com/watch?v=kqtD5dpn9C8) - *audio: en - legendas: pt*
+1. Acessar o [Mapa de Conceitos](https://www.mindmeister.com/pt/map/2583562956?t=7js9NerA57)
+2. Instalar o Python. Tutoriais no Mapa de Conceitos. Acessar:
+	- Python básico - Básico I - Instalação
+3. Assistir [Começando o aprendizado em python - Learning Python in 1 hour](https://www.youtube.com/watch?v=kqtD5dpn9C8) - *audio: en - legendas: pt*
 	- [Tópicos apresentados](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/review_learn_python_1_hour.md)
-- [Porque estou aprendendo Python mesmo?](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/porque_aprender_python.md)
-- [SQL]()
-- [Estatística Descritiva]()
+4.  Lógica de programação. Tutoriais no Mapa de Conceitos. Acessar:
+	- Python básico - Básico I - Lógica de Programação  
 
 <h3 id="intermediario">Intermediário</h3>
 
@@ -75,8 +68,6 @@ Bem vinda(o), pequena(o) padawan :)
 
 --------------------------------------------------
 <h2 id="videos">Vídeos</h2>
-
-### Estudos
 
 
 ### Webcasts & Webinars

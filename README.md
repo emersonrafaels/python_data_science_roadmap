@@ -60,6 +60,10 @@ Bem vinda(o), pequena(o) padawan :)
 	- **No Mapa de Conceitos:** Python básico - Básico I - Lógica de Programação
 5.  Por que aprender Python?.
 	- **No Mapa de Conceitos:** Python básico - Básico I - Por que aprender Python?
+6. Tipos primitivos:
+	- **No Mapa de Conceitos:** Python básico - Básico I - Tipos primitivos
+6. Casting de tipos primitivos:
+	- **No Mapa de Conceitos:** Python básico - Básico I - Casting de tipos primitivos
 
 <h3 id="intermediario">Intermediário</h3>
 

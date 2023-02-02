@@ -8,6 +8,7 @@ Utilizando o livro - [Aprendendo Python](https://github.com/emersonrafaels/pytho
 
 1. Nele os seguintes tópicos serão discutidos:
 
+    - É uma linguagem open-source e gratuita (com uma comunidade extremamente ativa e suporte da [Python Software Foundation](https://www.python.org/psf-landing/)).
     - Legibilidade do código Python.
     - Mecanismos para reutilização de código, baseados em programação orientada a objetos (POO).
     - O desenvolvedor mais produtivo com uma linguagem com menos digitação, menos depuração e menos manutenção.

@@ -52,12 +52,14 @@ Bem vinda(o), pequena(o) padawan :)
 <h3 id="iniciante">Iniciante</h3>
 
 1. Acessar o [Mapa de Conceitos](https://www.mindmeister.com/pt/map/2583562956?t=7js9NerA57)
-2. Instalar o Python. Tutoriais no Mapa de Conceitos. Acessar:
-	- Python básico - Básico I - Instalação
+2. Instalar o Python.
+	- **No Mapa de Conceitos:** Python básico - Básico I - Instalação
 3. Assistir [Começando o aprendizado em python - Learning Python in 1 hour](https://www.youtube.com/watch?v=kqtD5dpn9C8) - *audio: en - legendas: pt*
 	- [Tópicos apresentados](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/review_learn_python_1_hour.md)
-4.  Lógica de programação. Tutoriais no Mapa de Conceitos. Acessar:
-	- Python básico - Básico I - Lógica de Programação  
+4.  Lógica de programação.
+	- **No Mapa de Conceitos:** Python básico - Básico I - Lógica de Programação
+5.  Por que aprender Python?.
+	- **No Mapa de Conceitos:** Python básico - Básico I - Por que aprender Python?
 
 <h3 id="intermediario">Intermediário</h3>
 

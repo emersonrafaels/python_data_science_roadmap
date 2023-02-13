@@ -63,6 +63,7 @@ Bem vinda(o), pequena(o) padawan :)
 6. Tipos primitivos:
 	- **No Mapa de Conceitos:** Python básico - Básico I - Tipos primitivos.
 		- Aqui você conhecerá os tipos: int, float, boolean e string
+		- Muito dos materiais fala sobre os tipos inteiros e funções de casting, o que te preparará para o próximo tópico (casting de tipos primitivos).
 6. Casting de tipos primitivos:
 	- **No Mapa de Conceitos:** Python básico - Básico I - Casting de tipos primitivos.
 

@@ -57,13 +57,14 @@ Bem vinda(o), pequena(o) padawan :)
 3. Assistir [Começando o aprendizado em python - Learning Python in 1 hour](https://www.youtube.com/watch?v=kqtD5dpn9C8) - *audio: en - legendas: pt*
 	- [Tópicos apresentados](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/review_learn_python_1_hour.md)
 4.  Lógica de programação.
-	- **No Mapa de Conceitos:** Python básico - Básico I - Lógica de Programação
-5.  Por que aprender Python?.
+	- **No Mapa de Conceitos:** Python básico - Básico I - Lógica de Programação.
+5.  Por que aprender Python?
 	- **No Mapa de Conceitos:** Python básico - Básico I - Por que aprender Python?
 6. Tipos primitivos:
-	- **No Mapa de Conceitos:** Python básico - Básico I - Tipos primitivos
+	- **No Mapa de Conceitos:** Python básico - Básico I - Tipos primitivos.
+		- Aqui você conhecerá os tipos: int, float, boolean e string
 6. Casting de tipos primitivos:
-	- **No Mapa de Conceitos:** Python básico - Básico I - Casting de tipos primitivos
+	- **No Mapa de Conceitos:** Python básico - Básico I - Casting de tipos primitivos.
 
 <h3 id="intermediario">Intermediário</h3>
 

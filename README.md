@@ -73,6 +73,21 @@ Bem vinda(o), pequena(o) padawan :)
 		- Ao final dele, usar o [guia](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/aulas_importantes_curso_em_video.md#operadores-aritm%C3%A9ticos), para verificar se todos os tópicos foram compreendidos.
 		- Realizar os exercícios propostos: [Input e Output](https://pynative.com/python-input-and-output-exercise/)
 			- *Atenção para a nota, que menciona os exercícios a serem realizados.
+8. Controles de fluxo:
+	- **No Mapa de Conceitos:** Python básico - Básico I - Controles de fluxo.
+9. Containers:
+	- **No Mapa de Conceitos:** Python básico - Básico I - Containers.
+10. Erros e Exceptions:
+	- **No Mapa de Conceitos:** Python básico - Básico I - Erros e Exceptions.
+11. Funções:
+	- **No Mapa de Conceitos:** Python básico - Básico II - Funções.
+12. Criar e manipular diretórios:
+	- **No Mapa de Conceitos:** Python básico - Básico II - Criar e manipular diretórios.
+13. Criar e manipular arquivos:
+	- **No Mapa de Conceitos:** Python básico - Básico II - Criar e manipular arquivos.
+14. Bibliotecas Nativas
+	- **No Mapa de Conceitos:** Bibliotecas nativas.
+		- Ler artigo da O'Really sobre funções e bibliotecas do Python que deveríamos conhecer.
 
 <h3 id="intermediario">Intermediário</h3>
 

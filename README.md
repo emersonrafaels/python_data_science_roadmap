@@ -62,11 +62,17 @@ Bem vinda(o), pequena(o) padawan :)
 	- **No Mapa de Conceitos:** Python básico - Básico I - Por que aprender Python?
 6. Tipos primitivos:
 	- **No Mapa de Conceitos:** Python básico - Básico I - Tipos primitivos.
-		- Aqui você conhecerá os tipos: int, float, boolean e string
+		- Aqui você conhecerá os tipos: int, float, boolean e string.
 		- Muito dos materiais fala sobre os tipos inteiros e funções de casting, o que te preparará para o próximo tópico (casting de tipos primitivos).
-		- Dentro os tipos de conceitos, guarde um enorme foco para as strings
+		- Dentro os tipos de conceitos, guarde um enorme foco para as strings.
 6. Casting de tipos primitivos:
 	- **No Mapa de Conceitos:** Python básico - Básico I - Casting de tipos primitivos.
+7. Operadores básicos:
+	- **No Mapa de Conceitos:** Python básico - Básico I - Operadores básicos.
+		- Assistir o vídeo de Operadores aritméticos.
+		- Ao final dele, usar o [guia[(https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/aulas_importantes_curso_em_video.md#operadores-aritm%C3%A9ticos), para verificar se todos os tópicos foram compreendidos.
+		- Realizar os exercícios propostos: [Input e Output](https://pynative.com/python-input-and-output-exercise/)
+			- *Atenção para a nota, que menciona os exercícios a serem realizados.
 
 <h3 id="intermediario">Intermediário</h3>
 

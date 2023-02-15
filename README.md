@@ -70,7 +70,7 @@ Bem vinda(o), pequena(o) padawan :)
 7. Operadores básicos:
 	- **No Mapa de Conceitos:** Python básico - Básico I - Operadores básicos.
 		- Assistir o vídeo de Operadores aritméticos.
-		- Ao final dele, usar o [guia[(https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/aulas_importantes_curso_em_video.md#operadores-aritm%C3%A9ticos), para verificar se todos os tópicos foram compreendidos.
+		- Ao final dele, usar o [guia](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/aulas_importantes_curso_em_video.md#operadores-aritm%C3%A9ticos), para verificar se todos os tópicos foram compreendidos.
 		- Realizar os exercícios propostos: [Input e Output](https://pynative.com/python-input-and-output-exercise/)
 			- *Atenção para a nota, que menciona os exercícios a serem realizados.
 

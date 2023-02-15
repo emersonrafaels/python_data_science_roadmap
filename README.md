@@ -103,7 +103,11 @@ Bem vinda(o), pequena(o) padawan :)
 16. Jupyter Notebook (Aprendizado de máquina)
 	- **No Mapa de Conceitos:** Aprendizado de máquina - Jupyter Notebook.
 		- Ler o material introdutório ao Jupyter Notebook - [Material Introdutório](https://medium.com/@pedrofullstack/introdu%C3%A7%C3%A3o-ao-jupyter-notebook-para-python-b2cf79cea31d)
-		- Ler o material que adiciona mais informações ao artigo anterior - [Material](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/jupyter_notebooks.md)
+		- Ler o material que adiciona mais informações ao artigo anterior - [Material adicional](https://github.com/emersonrafaels/python_data_science_roadmap/blob/main/topicos/jupyter_notebooks.md)
+17. Matemática (Aprendizado de máquina)
+	- **No Mapa de Conceitos:** Aprendizado de máquina - Matemática.
+		- Cálculo
+		- Algebra Linear
 
 <h3 id="intermediario">Intermediário</h3>
 

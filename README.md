@@ -88,6 +88,18 @@ Bem vinda(o), pequena(o) padawan :)
 14. Bibliotecas Nativas
 	- **No Mapa de Conceitos:** Bibliotecas nativas.
 		- Ler artigo da O'Really sobre funções e bibliotecas do Python que deveríamos conhecer.
+15. As principais carreiras no mundo de dados
+	- **No Mapa de Conceitos:** Aprendizado de máquina - As principais carreiras.
+		- Ler os três materiais (um para cada carreira), detalhando sobre os objetivos e habilidades do Analista, Engenheiro e Cientista de dados.
+16. As principais ferramentas no AM (Aprendizado de máquina)
+	- **No Mapa de Conceitos:** Aprendizado de máquina - As principais ferramentas no AM.
+		- Ler o material citado, no qual discutem-se as principais ferramentas/boas práticas para estudar AM, sendo: 
+			- VirtualENV
+			- Jupyter
+			- Uso de uma IDE
+			- Pip
+			- Distribuição Anaconda
+			- Conhecimentos em GIT e Github
 
 <h3 id="intermediario">Intermediário</h3>
 
